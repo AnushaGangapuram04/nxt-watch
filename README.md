@@ -1,4 +1,4 @@
-https://nxtwatch-ml07.onrender.com/login this my live server deployment link
+https://nxtwatch-ml07.onrender.com/  this my live server deployment link
 
 
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
